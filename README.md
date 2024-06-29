@@ -1,6 +1,7 @@
 # my-vim
 ## Setup
 ```
+git clone https://github.com/trunliu/my-vim.git
 chmod a+x setup.sh && ./setup.sh
 ```
 
