@@ -5,6 +5,10 @@ git clone https://github.com/trunliu/my-vim.git
 chmod a+x setup.sh && ./setup.sh
 ```
 
+```
+:PlugInstall
+```
+
 ## Usage
 `C`-`Ctrl`
 `A`-`Alt`
