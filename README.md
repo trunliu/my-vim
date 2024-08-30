@@ -16,6 +16,11 @@ chmod a+x setup.sh && ./setup.sh
 | Key | Note |
 | :--: | :--: | 
 | `C`+`]` | jump to the defination | 
+| `C`+`w`+`]` | split to the defination | 
+| `C`+`w`+`}` | split to the defination | 
+| `C`+`\` | open a terminal | 
+| `C`+`f` | grep a keyword | 
+| `C`+`e` | open a quick fix terminal | 
 | `C`+`o` | back | 
 | `C`+`i` | unback  | 
 | `u`|  undo | 
